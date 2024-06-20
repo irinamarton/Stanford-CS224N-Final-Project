@@ -13,7 +13,7 @@ Instructed by [<img src="https://web.stanford.edu/class/cs224n/images/Christophe
 
 
 
-### [CODE](https://github.com/irinamarton/Stanford-CS330-Final-Project/tree/fa1a9362d9470dc2fbeb9a4502a445ddf1317da5/Code)
+### [CODE](https://github.com/irinamarton/Stanford-CS224N-Final-Project/tree/fab35bf0eacb01a27025201cf18e9023df79174f/Code)
 
 ### [PAPER](https://web.stanford.edu/class/cs224n/final-reports/256701224.pdf)
 
