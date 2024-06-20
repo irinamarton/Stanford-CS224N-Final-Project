@@ -7,7 +7,7 @@
 Instructed by [<img src="https://web.stanford.edu/class/cs224n/images/Christopher_Manning_resized.jpg" width="20px" height="20px"/> Christopher Manning](https://nlp.stanford.edu/~manning/)
 
 
-# Tailor-Made or Off-the-Rack? Comparing Domain-Specific and General-Domain Language Models on a Financial NLP Task
+# Comparing Domain-Specific and General-Domain Language Models
 
 <img src="https://github.com/irinamarton/Stanford-CS224N-Final-Project/blob/61c792643b88fc2c7fbbaff9bbafb078eb33d3c8/CS224N_Irina_A_Marton_Project%20Poster.jpeg" width="800"/>
 
