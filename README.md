@@ -9,7 +9,7 @@ Instructed by [<img src="https://web.stanford.edu/class/cs224n/images/Christophe
 
 # Tailor-Made or Off-the-Rack? Comparing Domain-Specific and General-Domain Language Models on a Financial NLP Task
 
-<img src="https://github.com/irinamarton/Stanford-CS330-Final-Project/blob/0161e4eaf13b09d32c0ba9b38dd034d572173ac7/CS330%20-%20Project%20Poster_Irina%20Alexandra%20Marton.jpeg" width="800"/>
+<img src="https://github.com/irinamarton/Stanford-CS224N-Final-Project/blob/61c792643b88fc2c7fbbaff9bbafb078eb33d3c8/CS224N_Irina_A_Marton_Project%20Poster.jpeg" width="800"/>
 
 
 
